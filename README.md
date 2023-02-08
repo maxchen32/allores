@@ -1,3 +1,5 @@
+# https://git.minetest.land/aiss/allores
+
 # allores
 $\colorbox{red}{{\color{white}\textsf{All minerals of the Earth}}}$
 
