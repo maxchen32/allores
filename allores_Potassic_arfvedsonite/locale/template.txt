@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_arfvedsonite
+
+Potassic_arfvedsonite=

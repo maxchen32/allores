@@ -1,0 +1,3 @@
+# textdomain: allores_retzian_la
+
+Retzian_La=

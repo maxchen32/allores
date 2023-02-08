@@ -1,0 +1,3 @@
+# textdomain: allores_zirsilite_ce
+
+Zirsilite_Ce=

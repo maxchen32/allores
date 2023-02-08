@@ -1,0 +1,3 @@
+# textdomain: allores_dickinsonite_kmnna
+
+Dickinsonite_KMnNa=

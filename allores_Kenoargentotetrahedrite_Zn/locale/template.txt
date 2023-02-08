@@ -1,0 +1,3 @@
+# textdomain: allores_kenoargentotetrahedrite_zn
+
+Kenoargentotetrahedrite_Zn=

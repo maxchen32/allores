@@ -1,0 +1,3 @@
+# textdomain: allores_garronite_ca
+
+Garronite_Ca=

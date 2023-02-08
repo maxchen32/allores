@@ -1,0 +1,3 @@
+# textdomain: allores_gagarinite_y
+
+Gagarinite_Y=

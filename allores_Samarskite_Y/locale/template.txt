@@ -1,0 +1,3 @@
+# textdomain: allores_samarskite_y
+
+Samarskite_Y=

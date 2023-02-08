@@ -1,0 +1,3 @@
+# textdomain: allores_magnesionigerite_6n6s
+
+Magnesionigerite_6N6S=

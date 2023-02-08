@@ -1,0 +1,3 @@
+# textdomain: allores_iraqite_la
+
+Iraqite_La=

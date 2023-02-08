@@ -1,0 +1,3 @@
+# textdomain: allores_chernovite_y
+
+Chernovite_Y=

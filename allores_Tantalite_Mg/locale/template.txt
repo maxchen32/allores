@@ -1,0 +1,3 @@
+# textdomain: allores_tantalite_mg
+
+Tantalite_Mg=

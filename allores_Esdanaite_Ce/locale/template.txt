@@ -1,0 +1,3 @@
+# textdomain: allores_esdanaite_ce
+
+Esdanaite_Ce=

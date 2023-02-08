@@ -1,0 +1,3 @@
+# textdomain: allores_iwashiroite_y
+
+Iwashiroite_Y=

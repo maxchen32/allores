@@ -1,0 +1,3 @@
+# textdomain: allores_ferrierite_mg
+
+Ferrierite_Mg=

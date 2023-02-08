@@ -1,0 +1,3 @@
+# textdomain: allores_arsenogorceixite
+
+Arsenogorceixite=

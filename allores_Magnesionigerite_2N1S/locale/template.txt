@@ -1,0 +1,3 @@
+# textdomain: allores_magnesionigerite_2n1s
+
+Magnesionigerite_2N1S=

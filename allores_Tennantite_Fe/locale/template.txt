@@ -1,0 +1,3 @@
+# textdomain: allores_tennantite_fe
+
+Tennantite_Fe=

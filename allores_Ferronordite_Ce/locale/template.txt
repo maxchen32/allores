@@ -1,0 +1,3 @@
+# textdomain: allores_ferronordite_ce
+
+Ferronordite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_betpakdalite_caca
+
+Betpakdalite_CaCa=

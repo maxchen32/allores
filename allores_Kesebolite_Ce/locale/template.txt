@@ -1,0 +1,3 @@
+# textdomain: allores_kesebolite_ce
+
+Kesebolite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_cupropolybasite
+
+Cupropolybasite=

@@ -1,0 +1,3 @@
+# textdomain: allores_daqingshanite_ce
+
+Daqingshanite_Ce=

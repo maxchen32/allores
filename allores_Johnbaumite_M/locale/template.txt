@@ -1,0 +1,3 @@
+# textdomain: allores_johnbaumite_m
+
+Johnbaumite_M=

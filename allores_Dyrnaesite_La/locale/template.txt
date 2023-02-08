@@ -1,0 +1,3 @@
+# textdomain: allores_dyrnaesite_la
+
+Dyrnaesite_La=

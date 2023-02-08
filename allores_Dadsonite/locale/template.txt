@@ -1,0 +1,3 @@
+# textdomain: allores_dadsonite
+
+Dadsonite=

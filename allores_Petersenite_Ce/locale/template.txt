@@ -1,0 +1,3 @@
+# textdomain: allores_petersenite_ce
+
+Petersenite_Ce=

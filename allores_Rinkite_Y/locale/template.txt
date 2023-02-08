@@ -1,0 +1,3 @@
+# textdomain: allores_rinkite_y
+
+Rinkite_Y=

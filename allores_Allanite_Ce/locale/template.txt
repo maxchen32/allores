@@ -1,0 +1,3 @@
+# textdomain: allores_allanite_ce
+
+Allanite_Ce=

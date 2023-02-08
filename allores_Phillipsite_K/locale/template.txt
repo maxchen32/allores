@@ -1,0 +1,3 @@
+# textdomain: allores_phillipsite_k
+
+Phillipsite_K=

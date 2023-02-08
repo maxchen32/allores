@@ -1,0 +1,3 @@
+# textdomain: allores_tundrite_ce
+
+Tundrite_Ce=

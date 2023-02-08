@@ -1,0 +1,3 @@
+# textdomain: allores_obradovicite_kcu
+
+Obradovicite_KCu=

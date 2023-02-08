@@ -1,0 +1,3 @@
+# textdomain: allores_neskevaaraite_fe
+
+Neskevaaraite_Fe=

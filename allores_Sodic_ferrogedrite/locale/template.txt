@@ -1,0 +1,3 @@
+# textdomain: allores_sodic_ferrogedrite
+
+Sodic_ferrogedrite=

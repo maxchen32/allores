@@ -1,0 +1,3 @@
+# textdomain: allores_erionite_k
+
+Erionite_K=

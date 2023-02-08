@@ -1,0 +1,3 @@
+# textdomain: allores_parvo_mangano_edenite
+
+Parvo_mangano_edenite=

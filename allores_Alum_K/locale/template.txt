@@ -1,0 +1,3 @@
+# textdomain: allores_alum_k
+
+Alum_K=

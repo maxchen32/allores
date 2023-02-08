@@ -1,0 +1,3 @@
+# textdomain: allores_uedaite_ce
+
+Uedaite_Ce=

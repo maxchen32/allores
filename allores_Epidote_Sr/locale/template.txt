@@ -1,0 +1,3 @@
+# textdomain: allores_epidote_sr
+
+Epidote_Sr=

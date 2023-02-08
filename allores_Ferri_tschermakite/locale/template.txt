@@ -1,0 +1,3 @@
+# textdomain: allores_ferri_tschermakite
+
+Ferri_tschermakite=

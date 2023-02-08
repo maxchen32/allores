@@ -1,0 +1,3 @@
+# textdomain: allores_baumhaueriteii
+
+BaumhaueriteII=

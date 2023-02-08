@@ -1,0 +1,3 @@
+# textdomain: allores_schluterite_y
+
+Schluterite_Y=

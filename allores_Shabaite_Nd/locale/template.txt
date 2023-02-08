@@ -1,0 +1,3 @@
+# textdomain: allores_shabaite_nd
+
+Shabaite_Nd=

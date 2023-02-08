@@ -1,0 +1,3 @@
+# textdomain: allores_alnaperboeite_ce
+
+Alnaperboeite_Ce=

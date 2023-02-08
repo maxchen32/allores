@@ -1,0 +1,3 @@
+# textdomain: allores_steenstrupine_ce
+
+Steenstrupine_Ce=

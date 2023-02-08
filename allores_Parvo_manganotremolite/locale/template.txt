@@ -1,0 +1,3 @@
+# textdomain: allores_parvo_manganotremolite
+
+Parvo_manganotremolite=

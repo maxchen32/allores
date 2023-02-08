@@ -1,0 +1,3 @@
+# textdomain: allores_hydroxylbastnasite_la
+
+Hydroxylbastnasite_La=

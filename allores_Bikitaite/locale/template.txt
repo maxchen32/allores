@@ -1,0 +1,3 @@
+# textdomain: allores_bikitaite
+
+Bikitaite=

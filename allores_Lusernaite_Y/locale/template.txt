@@ -1,0 +1,3 @@
+# textdomain: allores_lusernaite_y
+
+Lusernaite_Y=

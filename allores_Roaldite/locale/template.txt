@@ -1,0 +1,3 @@
+# textdomain: allores_roaldite
+
+Roaldite=

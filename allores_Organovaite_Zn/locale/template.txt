@@ -1,0 +1,3 @@
+# textdomain: allores_organovaite_zn
+
+Organovaite_Zn=

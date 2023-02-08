@@ -1,0 +1,3 @@
+# textdomain: allores_para_alumohydrocalcite
+
+Para_alumohydrocalcite=

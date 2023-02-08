@@ -1,0 +1,3 @@
+# textdomain: allores_paralabuntsovite_mg
+
+Paralabuntsovite_Mg=

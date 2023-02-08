@@ -1,0 +1,3 @@
+# textdomain: allores_kamotoite_y
+
+Kamotoite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_kapitsaite_y
+
+Kapitsaite_Y=

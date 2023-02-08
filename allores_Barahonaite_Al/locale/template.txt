@@ -1,0 +1,3 @@
+# textdomain: allores_barahonaite_al
+
+Barahonaite_Al=

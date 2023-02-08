@@ -1,0 +1,3 @@
+# textdomain: allores_arsenoflorencite_ce
+
+Arsenoflorencite_Ce=

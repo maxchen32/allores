@@ -1,0 +1,3 @@
+# textdomain: allores_davidite_ce
+
+Davidite_Ce=

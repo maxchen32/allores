@@ -1,0 +1,3 @@
+# textdomain: allores_karnasurtite_ce
+
+Karnasurtite_Ce=

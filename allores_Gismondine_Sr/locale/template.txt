@@ -1,0 +1,3 @@
+# textdomain: allores_gismondine_sr
+
+Gismondine_Sr=

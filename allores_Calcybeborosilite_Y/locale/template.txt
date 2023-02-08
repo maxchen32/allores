@@ -1,0 +1,3 @@
+# textdomain: allores_calcybeborosilite_y
+
+Calcybeborosilite_Y=

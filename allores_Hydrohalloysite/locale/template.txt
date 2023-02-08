@@ -1,0 +1,3 @@
+# textdomain: allores_hydrohalloysite
+
+Hydrohalloysite=

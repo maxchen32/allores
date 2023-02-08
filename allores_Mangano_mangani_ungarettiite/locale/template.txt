@@ -1,0 +1,3 @@
+# textdomain: allores_mangano_mangani_ungarettiite
+
+Mangano_mangani_ungarettiite=

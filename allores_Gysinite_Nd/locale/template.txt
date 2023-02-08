@@ -1,0 +1,3 @@
+# textdomain: allores_gysinite_nd
+
+Gysinite_Nd=

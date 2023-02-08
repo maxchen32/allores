@@ -1,0 +1,3 @@
+# textdomain: allores_shakhdaraite_y
+
+Shakhdaraite_Y=

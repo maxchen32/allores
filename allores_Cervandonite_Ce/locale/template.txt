@@ -1,0 +1,3 @@
+# textdomain: allores_cervandonite_ce
+
+Cervandonite_Ce=

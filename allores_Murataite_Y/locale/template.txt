@@ -1,0 +1,3 @@
+# textdomain: allores_murataite_y
+
+Murataite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_bixbyite_fe
+
+Bixbyite_Fe=

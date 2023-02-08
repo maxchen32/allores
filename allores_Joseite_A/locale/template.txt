@@ -1,0 +1,3 @@
+# textdomain: allores_joseite_a
+
+Joseite_A=

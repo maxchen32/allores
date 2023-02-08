@@ -1,0 +1,3 @@
+# textdomain: allores_jahnsite_camnmn
+
+Jahnsite_CaMnMn=

@@ -1,0 +1,3 @@
+# textdomain: allores_ferri_mottanaite_ce
+
+Ferri_mottanaite_Ce=

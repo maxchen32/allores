@@ -1,0 +1,3 @@
+# textdomain: allores_fluorapophyllite_k
+
+Fluorapophyllite_K=

@@ -1,0 +1,3 @@
+# textdomain: allores_piemontite_sr
+
+Piemontite_Sr=

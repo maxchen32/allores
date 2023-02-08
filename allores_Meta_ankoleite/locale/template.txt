@@ -1,0 +1,3 @@
+# textdomain: allores_meta_ankoleite
+
+Meta_ankoleite=

@@ -1,0 +1,3 @@
+# textdomain: allores_pseudomeisserite_nh4
+
+Pseudomeisserite_NH4=

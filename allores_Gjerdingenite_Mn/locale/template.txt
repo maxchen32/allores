@@ -1,0 +1,3 @@
+# textdomain: allores_gjerdingenite_mn
+
+Gjerdingenite_Mn=

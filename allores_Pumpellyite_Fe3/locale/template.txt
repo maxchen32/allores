@@ -1,0 +1,3 @@
+# textdomain: allores_pumpellyite_fe3
+
+Pumpellyite_Fe3=

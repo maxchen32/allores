@@ -1,0 +1,3 @@
+# textdomain: allores_mendozavilite_nafe
+
+Mendozavilite_NaFe=

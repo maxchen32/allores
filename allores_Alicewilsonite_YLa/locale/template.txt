@@ -1,0 +1,3 @@
+# textdomain: allores_alicewilsonite_yla
+
+Alicewilsonite_YLa=

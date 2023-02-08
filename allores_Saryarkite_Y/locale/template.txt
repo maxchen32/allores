@@ -1,0 +1,3 @@
+# textdomain: allores_saryarkite_y
+
+Saryarkite_Y=

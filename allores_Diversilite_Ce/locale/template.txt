@@ -1,0 +1,3 @@
+# textdomain: allores_diversilite_ce
+
+Diversilite_Ce=

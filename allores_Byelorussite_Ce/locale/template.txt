@@ -1,0 +1,3 @@
+# textdomain: allores_byelorussite_ce
+
+Byelorussite_Ce=

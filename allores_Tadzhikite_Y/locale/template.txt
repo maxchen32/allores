@@ -1,0 +1,3 @@
+# textdomain: allores_tadzhikite_y
+
+Tadzhikite_Y=

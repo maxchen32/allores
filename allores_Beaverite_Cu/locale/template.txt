@@ -1,0 +1,3 @@
+# textdomain: allores_beaverite_cu
+
+Beaverite_Cu=

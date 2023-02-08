@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_jeanlouisite
+
+Potassic_jeanlouisite=

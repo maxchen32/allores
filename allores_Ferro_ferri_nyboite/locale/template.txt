@@ -1,0 +1,3 @@
+# textdomain: allores_ferro_ferri_nyboite
+
+Ferro_ferri_nyboite=

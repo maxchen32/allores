@@ -1,0 +1,3 @@
+# textdomain: allores_schuilingite_nd
+
+Schuilingite_Nd=

@@ -1,0 +1,3 @@
+# textdomain: allores_ferraioloite
+
+Ferraioloite=

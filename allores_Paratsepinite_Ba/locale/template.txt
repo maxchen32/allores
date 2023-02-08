@@ -1,0 +1,3 @@
+# textdomain: allores_paratsepinite_ba
+
+Paratsepinite_Ba=

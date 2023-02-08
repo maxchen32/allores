@@ -1,0 +1,3 @@
+# textdomain: allores_haleniusite_la
+
+Haleniusite_La=

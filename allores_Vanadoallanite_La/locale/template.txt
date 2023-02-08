@@ -1,0 +1,3 @@
+# textdomain: allores_vanadoallanite_la
+
+Vanadoallanite_La=

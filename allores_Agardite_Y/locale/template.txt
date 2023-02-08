@@ -1,0 +1,3 @@
+# textdomain: allores_agardite_y
+
+Agardite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_kupletskite_cs
+
+Kupletskite_Cs=

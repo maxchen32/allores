@@ -1,0 +1,3 @@
+# textdomain: allores_parakuzmenkoite_fe
+
+Parakuzmenkoite_Fe=

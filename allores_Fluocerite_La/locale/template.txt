@@ -1,0 +1,3 @@
+# textdomain: allores_fluocerite_la
+
+Fluocerite_La=

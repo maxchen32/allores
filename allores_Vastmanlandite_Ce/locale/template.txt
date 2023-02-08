@@ -1,0 +1,3 @@
+# textdomain: allores_vastmanlandite_ce
+
+Vastmanlandite_Ce=

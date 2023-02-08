@@ -1,0 +1,3 @@
+# textdomain: allores_gerenite_y
+
+Gerenite_Y=

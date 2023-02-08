@@ -1,0 +1,3 @@
+# textdomain: allores_delhuyarite_ce
+
+Delhuyarite_Ce=

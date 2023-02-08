@@ -1,0 +1,3 @@
+# textdomain: allores_kuzmenkoite_zn
+
+Kuzmenkoite_Zn=

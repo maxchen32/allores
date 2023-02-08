@@ -1,0 +1,3 @@
+# textdomain: allores_petersite_y
+
+Petersite_Y=

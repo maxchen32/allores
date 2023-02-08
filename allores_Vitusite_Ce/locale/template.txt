@@ -1,0 +1,3 @@
+# textdomain: allores_vitusite_ce
+
+Vitusite_Ce=

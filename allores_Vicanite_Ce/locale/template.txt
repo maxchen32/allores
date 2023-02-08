@@ -1,0 +1,3 @@
+# textdomain: allores_vicanite_ce
+
+Vicanite_Ce=

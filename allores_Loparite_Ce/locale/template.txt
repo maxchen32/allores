@@ -1,0 +1,3 @@
+# textdomain: allores_loparite_ce
+
+Loparite_Ce=

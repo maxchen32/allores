@@ -1,0 +1,3 @@
+# textdomain: allores_waimirite_y
+
+Waimirite_Y=

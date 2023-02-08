@@ -1,0 +1,3 @@
+# textdomain: allores_ulfanderssonite_ce
+
+Ulfanderssonite_Ce=

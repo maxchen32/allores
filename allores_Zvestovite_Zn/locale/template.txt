@@ -1,0 +1,3 @@
+# textdomain: allores_zvestovite_zn
+
+Zvestovite_Zn=

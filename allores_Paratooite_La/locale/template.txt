@@ -1,0 +1,3 @@
+# textdomain: allores_paratooite_la
+
+Paratooite_La=

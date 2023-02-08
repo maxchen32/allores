@@ -1,0 +1,3 @@
+# textdomain: allores_takanawaite_y
+
+Takanawaite_Y=

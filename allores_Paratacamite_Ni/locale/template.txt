@@ -1,0 +1,3 @@
+# textdomain: allores_paratacamite_ni
+
+Paratacamite_Ni=

@@ -1,0 +1,3 @@
+# textdomain: allores_sazykinaite_y
+
+Sazykinaite_Y=

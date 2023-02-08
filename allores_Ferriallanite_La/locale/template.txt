@@ -1,0 +1,3 @@
+# textdomain: allores_ferriallanite_la
+
+Ferriallanite_La=

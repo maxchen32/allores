@@ -1,0 +1,3 @@
+# textdomain: allores_ferro_ferri_fluoro_leakeite
+
+Ferro_ferri_fluoro_leakeite=

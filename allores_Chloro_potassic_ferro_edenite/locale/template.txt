@@ -1,0 +1,3 @@
+# textdomain: allores_chloro_potassic_ferro_edenite
+
+Chloro_potassic_ferro_edenite=

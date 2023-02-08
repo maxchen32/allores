@@ -1,0 +1,3 @@
+# textdomain: allores_whiteite_mnmnmg
+
+Whiteite_MnMnMg=

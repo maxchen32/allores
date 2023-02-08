@@ -1,0 +1,3 @@
+# textdomain: allores_biraite_la
+
+Biraite_La=

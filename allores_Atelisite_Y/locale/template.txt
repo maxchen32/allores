@@ -1,0 +1,3 @@
+# textdomain: allores_atelisite_y
+
+Atelisite_Y=

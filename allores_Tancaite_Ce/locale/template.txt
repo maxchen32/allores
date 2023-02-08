@@ -1,0 +1,3 @@
+# textdomain: allores_tancaite_ce
+
+Tancaite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_clinofergusonite_nd
+
+Clinofergusonite_Nd=

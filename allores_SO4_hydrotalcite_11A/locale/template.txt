@@ -1,0 +1,3 @@
+# textdomain: allores_so4_hydrotalcite_11a
+
+SO4_hydrotalcite_11A=

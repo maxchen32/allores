@@ -1,0 +1,3 @@
+# textdomain: allores_kenoargentotetrahedrite_fe
+
+Kenoargentotetrahedrite_Fe=

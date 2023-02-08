@@ -1,0 +1,3 @@
+# textdomain: allores_chiappinoite_y
+
+Chiappinoite_Y=

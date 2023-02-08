@@ -1,0 +1,3 @@
+# textdomain: allores_fluorbritholite_ce
+
+Fluorbritholite_Ce=

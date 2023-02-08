@@ -1,0 +1,3 @@
+# textdomain: allores_vanadoandrosite_ce
+
+Vanadoandrosite_Ce=

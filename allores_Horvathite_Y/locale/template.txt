@@ -1,0 +1,3 @@
+# textdomain: allores_horvathite_y
+
+Horvathite_Y=

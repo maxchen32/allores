@@ -1,0 +1,3 @@
+# textdomain: allores_wallkilldellite_fe
+
+Wallkilldellite_Fe=

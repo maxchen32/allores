@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_ferro_ferri_sadanagaite
+
+Potassic_ferro_ferri_sadanagaite=

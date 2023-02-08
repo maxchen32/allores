@@ -1,0 +1,3 @@
+# textdomain: allores_xenotime_yb
+
+Xenotime_Yb=

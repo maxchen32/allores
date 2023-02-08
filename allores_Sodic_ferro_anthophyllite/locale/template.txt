@@ -1,0 +1,3 @@
+# textdomain: allores_sodic_ferro_anthophyllite
+
+Sodic_ferro_anthophyllite=

@@ -1,0 +1,3 @@
+# textdomain: allores_mckelveyite_y
+
+Mckelveyite_Y=

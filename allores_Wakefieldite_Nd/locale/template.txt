@@ -1,0 +1,3 @@
+# textdomain: allores_wakefieldite_nd
+
+Wakefieldite_Nd=

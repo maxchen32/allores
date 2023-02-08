@@ -1,0 +1,3 @@
+# textdomain: allores_khristovite_ce
+
+Khristovite_Ce=

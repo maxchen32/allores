@@ -1,0 +1,3 @@
+# textdomain: allores_ferrierite_nh4
+
+Ferrierite_NH4=

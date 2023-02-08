@@ -1,0 +1,3 @@
+# textdomain: allores_obradovicite_nana
+
+Obradovicite_NaNa=

@@ -1,0 +1,3 @@
+# textdomain: allores_yttrotantalite_y
+
+Yttrotantalite_Y=

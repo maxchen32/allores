@@ -1,0 +1,3 @@
+# textdomain: allores_quintinite_3t
+
+Quintinite_3T=

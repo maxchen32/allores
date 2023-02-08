@@ -1,0 +1,3 @@
+# textdomain: allores_changesite_y
+
+Changesite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_percleveite_ce
+
+Percleveite_Ce=

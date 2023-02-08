@@ -1,0 +1,3 @@
+# textdomain: allores_dingdaohengite_ce
+
+Dingdaohengite_Ce=

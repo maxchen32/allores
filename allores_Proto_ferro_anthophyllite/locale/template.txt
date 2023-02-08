@@ -1,0 +1,3 @@
+# textdomain: allores_proto_ferro_anthophyllite
+
+Proto_ferro_anthophyllite=

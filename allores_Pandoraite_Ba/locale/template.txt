@@ -1,0 +1,3 @@
+# textdomain: allores_pandoraite_ba
+
+Pandoraite_Ba=

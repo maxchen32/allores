@@ -1,0 +1,3 @@
+# textdomain: allores_francoisite_nd
+
+Francoisite_Nd=

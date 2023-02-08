@@ -1,0 +1,3 @@
+# textdomain: allores_oxy_foitite
+
+Oxy_foitite=

@@ -1,0 +1,3 @@
+# textdomain: allores_fluoro_ferri_magnesiokatophorite
+
+Fluoro_ferri_magnesiokatophorite=

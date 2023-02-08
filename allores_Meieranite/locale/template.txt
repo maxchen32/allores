@@ -1,0 +1,3 @@
+# textdomain: allores_meieranite
+
+Meieranite=

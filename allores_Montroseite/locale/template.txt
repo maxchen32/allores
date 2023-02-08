@@ -1,0 +1,3 @@
+# textdomain: allores_montroseite
+
+Montroseite=

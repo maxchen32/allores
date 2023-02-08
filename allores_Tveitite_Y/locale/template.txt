@@ -1,0 +1,3 @@
+# textdomain: allores_tveitite_y
+
+Tveitite_Y=

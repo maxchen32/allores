@@ -1,0 +1,3 @@
+# textdomain: allores_hakite_hg
+
+Hakite_Hg=

@@ -1,0 +1,3 @@
+# textdomain: allores_donnayite_y
+
+Donnayite_Y=

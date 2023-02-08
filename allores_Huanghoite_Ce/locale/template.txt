@@ -1,0 +1,3 @@
+# textdomain: allores_huanghoite_ce
+
+Huanghoite_Ce=

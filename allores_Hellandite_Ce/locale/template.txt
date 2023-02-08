@@ -1,0 +1,3 @@
+# textdomain: allores_hellandite_ce
+
+Hellandite_Ce=

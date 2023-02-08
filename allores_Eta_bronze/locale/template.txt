@@ -1,0 +1,3 @@
+# textdomain: allores_eta_bronze
+
+Eta_bronze=

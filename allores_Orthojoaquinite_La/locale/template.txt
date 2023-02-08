@@ -1,0 +1,3 @@
+# textdomain: allores_orthojoaquinite_la
+
+Orthojoaquinite_La=

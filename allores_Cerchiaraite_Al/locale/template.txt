@@ -1,0 +1,3 @@
+# textdomain: allores_cerchiaraite_al
+
+Cerchiaraite_Al=

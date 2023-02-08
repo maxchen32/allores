@@ -1,0 +1,3 @@
+# textdomain: allores_zincohogbomite_2n6s
+
+Zincohogbomite_2N6S=

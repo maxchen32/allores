@@ -1,0 +1,3 @@
+# textdomain: allores_mendozavilite_nacu
+
+Mendozavilite_NaCu=

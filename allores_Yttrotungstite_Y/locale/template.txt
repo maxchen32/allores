@@ -1,0 +1,3 @@
+# textdomain: allores_yttrotungstite_y
+
+Yttrotungstite_Y=

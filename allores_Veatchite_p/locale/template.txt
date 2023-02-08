@@ -1,0 +1,3 @@
+# textdomain: allores_veatchite_p
+
+Veatchite_p=

@@ -1,0 +1,3 @@
+# textdomain: allores_ferronigerite_6n6s
+
+Ferronigerite_6N6S=

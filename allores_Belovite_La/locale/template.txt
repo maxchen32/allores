@@ -1,0 +1,3 @@
+# textdomain: allores_belovite_la
+
+Belovite_La=

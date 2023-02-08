@@ -1,0 +1,3 @@
+# textdomain: allores_mineevite_y
+
+Mineevite_Y=

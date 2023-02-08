@@ -1,0 +1,3 @@
+# textdomain: allores_arrojadite_srfe
+
+Arrojadite_SrFe=

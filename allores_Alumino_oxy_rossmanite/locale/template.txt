@@ -1,0 +1,3 @@
+# textdomain: allores_alumino_oxy_rossmanite
+
+Alumino_oxy_rossmanite=

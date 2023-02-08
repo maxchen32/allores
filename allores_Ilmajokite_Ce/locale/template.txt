@@ -1,0 +1,3 @@
+# textdomain: allores_ilmajokite_ce
+
+Ilmajokite_Ce=

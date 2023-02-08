@@ -1,0 +1,3 @@
+# textdomain: allores_kukharenkoite_ce
+
+Kukharenkoite_Ce=

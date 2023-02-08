@@ -1,0 +1,3 @@
+# textdomain: allores_metaschoderite
+
+Metaschoderite=

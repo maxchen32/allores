@@ -1,0 +1,3 @@
+# textdomain: allores_ellestadite_cl
+
+Ellestadite_Cl=

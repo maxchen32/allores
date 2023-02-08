@@ -1,0 +1,3 @@
+# textdomain: allores_fluoro_cannilloite
+
+Fluoro_cannilloite=

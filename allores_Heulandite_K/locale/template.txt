@@ -1,0 +1,3 @@
+# textdomain: allores_heulandite_k
+
+Heulandite_K=

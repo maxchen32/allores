@@ -1,0 +1,3 @@
+# textdomain: allores_tapiolite_mn
+
+Tapiolite_Mn=

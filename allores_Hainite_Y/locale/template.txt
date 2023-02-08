@@ -1,0 +1,3 @@
+# textdomain: allores_hainite_y
+
+Hainite_Y=

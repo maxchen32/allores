@@ -1,0 +1,3 @@
+# textdomain: allores_pectolite_m2abc
+
+Pectolite_M2abc=

@@ -1,0 +1,3 @@
+# textdomain: allores_tengerite_y
+
+Tengerite_Y=

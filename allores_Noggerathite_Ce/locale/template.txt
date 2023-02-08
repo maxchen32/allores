@@ -1,0 +1,3 @@
+# textdomain: allores_noggerathite_ce
+
+Noggerathite_Ce=

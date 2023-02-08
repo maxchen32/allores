@@ -1,0 +1,3 @@
+# textdomain: allores_coskrenite_ce
+
+Coskrenite_Ce=

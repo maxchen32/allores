@@ -1,0 +1,3 @@
+# textdomain: allores_thalenite_y
+
+Thalenite_Y=

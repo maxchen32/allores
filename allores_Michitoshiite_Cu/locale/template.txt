@@ -1,0 +1,3 @@
+# textdomain: allores_michitoshiite_cu
+
+Michitoshiite_Cu=

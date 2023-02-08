@@ -1,0 +1,3 @@
+# textdomain: allores_thermessaite_nh4
+
+Thermessaite_NH4=

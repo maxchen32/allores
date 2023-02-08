@@ -1,0 +1,3 @@
+# textdomain: allores_axinite_mn
+
+Axinite_Mn=

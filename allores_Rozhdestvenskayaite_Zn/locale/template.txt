@@ -1,0 +1,3 @@
+# textdomain: allores_rozhdestvenskayaite_zn
+
+Rozhdestvenskayaite_Zn=

@@ -1,0 +1,3 @@
+# textdomain: allores_rhabdophane_nd
+
+Rhabdophane_Nd=

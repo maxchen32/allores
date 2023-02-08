@@ -1,0 +1,3 @@
+# textdomain: allores_lucasite_ce
+
+Lucasite_Ce=

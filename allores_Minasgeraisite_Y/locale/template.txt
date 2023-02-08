@@ -1,0 +1,3 @@
+# textdomain: allores_minasgeraisite_y
+
+Minasgeraisite_Y=

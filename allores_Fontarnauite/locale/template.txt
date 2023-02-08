@@ -1,0 +1,3 @@
+# textdomain: allores_fontarnauite
+
+Fontarnauite=

@@ -1,0 +1,3 @@
+# textdomain: allores_gasparite_la
+
+Gasparite_La=

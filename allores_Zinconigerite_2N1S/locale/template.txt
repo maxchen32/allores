@@ -1,0 +1,3 @@
+# textdomain: allores_zinconigerite_2n1s
+
+Zinconigerite_2N1S=

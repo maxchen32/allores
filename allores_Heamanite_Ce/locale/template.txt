@@ -1,0 +1,3 @@
+# textdomain: allores_heamanite_ce
+
+Heamanite_Ce=

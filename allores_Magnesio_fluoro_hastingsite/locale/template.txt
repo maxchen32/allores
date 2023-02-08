@@ -1,0 +1,3 @@
+# textdomain: allores_magnesio_fluoro_hastingsite
+
+Magnesio_fluoro_hastingsite=

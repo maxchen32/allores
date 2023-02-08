@@ -1,0 +1,3 @@
+# textdomain: allores_johnsenite_ce
+
+Johnsenite_Ce=

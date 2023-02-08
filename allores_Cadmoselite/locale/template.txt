@@ -1,0 +1,3 @@
+# textdomain: allores_cadmoselite
+
+Cadmoselite=

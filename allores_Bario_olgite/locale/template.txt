@@ -1,0 +1,3 @@
+# textdomain: allores_bario_olgite
+
+Bario_olgite=

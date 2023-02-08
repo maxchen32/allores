@@ -1,0 +1,3 @@
+# textdomain: allores_sazhinite_ce
+
+Sazhinite_Ce=

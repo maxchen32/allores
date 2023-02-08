@@ -1,0 +1,3 @@
+# textdomain: allores_bostwickite
+
+Bostwickite=

@@ -1,0 +1,3 @@
+# textdomain: allores_chinleite_y
+
+Chinleite_Y=

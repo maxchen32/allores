@@ -1,0 +1,3 @@
+# textdomain: allores_ferrotaaffeite_6n3s
+
+Ferrotaaffeite_6N3S=

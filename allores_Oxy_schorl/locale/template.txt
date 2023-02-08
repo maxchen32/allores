@@ -1,0 +1,3 @@
+# textdomain: allores_oxy_schorl
+
+Oxy_schorl=

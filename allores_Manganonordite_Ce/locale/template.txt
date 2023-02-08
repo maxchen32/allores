@@ -1,0 +1,3 @@
+# textdomain: allores_manganonordite_ce
+
+Manganonordite_Ce=

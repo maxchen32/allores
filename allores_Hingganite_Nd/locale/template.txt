@@ -1,0 +1,3 @@
+# textdomain: allores_hingganite_nd
+
+Hingganite_Nd=

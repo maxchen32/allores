@@ -1,0 +1,3 @@
+# textdomain: allores_olivenite
+
+Olivenite=

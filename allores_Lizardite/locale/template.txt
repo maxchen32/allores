@@ -1,0 +1,3 @@
+# textdomain: allores_lizardite
+
+Lizardite=

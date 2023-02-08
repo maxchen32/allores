@@ -1,0 +1,3 @@
+# textdomain: allores_alexkuznetsovite_la
+
+Alexkuznetsovite_La=

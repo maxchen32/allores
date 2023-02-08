@@ -1,0 +1,3 @@
+# textdomain: allores_cubo_ice
+
+Cubo_ice=

@@ -1,0 +1,3 @@
+# textdomain: allores_gadolinite_ce
+
+Gadolinite_Ce=

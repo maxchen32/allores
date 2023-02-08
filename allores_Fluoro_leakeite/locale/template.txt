@@ -1,0 +1,3 @@
+# textdomain: allores_fluoro_leakeite
+
+Fluoro_leakeite=

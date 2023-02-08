@@ -1,0 +1,3 @@
+# textdomain: allores_ancylite_ce
+
+Ancylite_Ce=

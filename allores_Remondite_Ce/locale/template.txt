@@ -1,0 +1,3 @@
+# textdomain: allores_remondite_ce
+
+Remondite_Ce=

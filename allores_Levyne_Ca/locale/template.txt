@@ -1,0 +1,3 @@
+# textdomain: allores_levyne_ca
+
+Levyne_Ca=

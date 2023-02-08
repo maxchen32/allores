@@ -1,0 +1,3 @@
+# textdomain: allores_chromo_alumino_povondraite
+
+Chromo_alumino_povondraite=

@@ -1,0 +1,3 @@
+# textdomain: allores_kamphaugite_y
+
+Kamphaugite_Y=

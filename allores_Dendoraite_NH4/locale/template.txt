@@ -1,0 +1,3 @@
+# textdomain: allores_dendoraite_nh4
+
+Dendoraite_NH4=

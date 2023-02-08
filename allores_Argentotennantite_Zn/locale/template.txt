@@ -1,0 +1,3 @@
+# textdomain: allores_argentotennantite_zn
+
+Argentotennantite_Zn=

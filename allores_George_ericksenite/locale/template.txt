@@ -1,0 +1,3 @@
+# textdomain: allores_george_ericksenite
+
+George_ericksenite=

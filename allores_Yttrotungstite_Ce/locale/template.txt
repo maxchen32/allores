@@ -1,0 +1,3 @@
+# textdomain: allores_yttrotungstite_ce
+
+Yttrotungstite_Ce=

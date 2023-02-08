@@ -1,0 +1,3 @@
+# textdomain: allores_beusite_ca
+
+Beusite_Ca=

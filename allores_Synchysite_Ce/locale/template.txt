@@ -1,0 +1,3 @@
+# textdomain: allores_synchysite_ce
+
+Synchysite_Ce=

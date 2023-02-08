@@ -1,0 +1,3 @@
+# textdomain: allores_manaevite_ce
+
+Manaevite_Ce=

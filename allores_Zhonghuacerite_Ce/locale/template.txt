@@ -1,0 +1,3 @@
+# textdomain: allores_zhonghuacerite_ce
+
+Zhonghuacerite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_cappelenite_y
+
+Cappelenite_Y=

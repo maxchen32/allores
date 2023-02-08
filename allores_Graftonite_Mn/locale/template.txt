@@ -1,0 +1,3 @@
+# textdomain: allores_graftonite_mn
+
+Graftonite_Mn=

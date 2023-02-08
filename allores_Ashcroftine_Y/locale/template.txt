@@ -1,0 +1,3 @@
+# textdomain: allores_ashcroftine_y
+
+Ashcroftine_Y=

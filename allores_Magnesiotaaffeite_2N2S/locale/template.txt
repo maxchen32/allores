@@ -1,0 +1,3 @@
+# textdomain: allores_magnesiotaaffeite_2n2s
+
+Magnesiotaaffeite_2N2S=

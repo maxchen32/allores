@@ -1,0 +1,3 @@
+# textdomain: allores_meta_aluminite
+
+Meta_aluminite=

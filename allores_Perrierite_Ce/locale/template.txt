@@ -1,0 +1,3 @@
+# textdomain: allores_perrierite_ce
+
+Perrierite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_demicheleite_br
+
+Demicheleite_Br=

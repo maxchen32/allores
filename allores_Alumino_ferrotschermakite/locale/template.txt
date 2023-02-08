@@ -1,0 +1,3 @@
+# textdomain: allores_alumino_ferrotschermakite
+
+Alumino_ferrotschermakite=

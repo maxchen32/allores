@@ -1,0 +1,3 @@
+# textdomain: allores_chevkinite_ce
+
+Chevkinite_Ce=

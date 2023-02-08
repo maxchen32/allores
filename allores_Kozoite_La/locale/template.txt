@@ -1,0 +1,3 @@
+# textdomain: allores_kozoite_la
+
+Kozoite_La=

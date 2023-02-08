@@ -1,0 +1,3 @@
+# textdomain: allores_kainosite_y
+
+Kainosite_Y=

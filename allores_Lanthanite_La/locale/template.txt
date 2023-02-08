@@ -1,0 +1,3 @@
+# textdomain: allores_lanthanite_la
+
+Lanthanite_La=

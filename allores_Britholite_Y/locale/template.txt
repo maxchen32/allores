@@ -1,0 +1,3 @@
+# textdomain: allores_britholite_y
+
+Britholite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_stornesite_y
+
+Stornesite_Y=

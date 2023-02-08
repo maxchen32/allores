@@ -1,0 +1,3 @@
+# textdomain: allores_menzerite_y
+
+Menzerite_Y=

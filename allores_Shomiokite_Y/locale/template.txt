@@ -1,0 +1,3 @@
+# textdomain: allores_shomiokite_y
+
+Shomiokite_Y=

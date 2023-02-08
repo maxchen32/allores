@@ -1,0 +1,3 @@
+# textdomain: allores_paratacamite_mg
+
+Paratacamite_Mg=

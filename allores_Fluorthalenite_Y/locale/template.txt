@@ -1,0 +1,3 @@
+# textdomain: allores_fluorthalenite_y
+
+Fluorthalenite_Y=

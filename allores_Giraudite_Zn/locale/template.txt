@@ -1,0 +1,3 @@
+# textdomain: allores_giraudite_zn
+
+Giraudite_Zn=

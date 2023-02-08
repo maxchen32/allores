@@ -1,0 +1,3 @@
+# textdomain: allores_zincovelesite_6n6s
+
+Zincovelesite_6N6S=

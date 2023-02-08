@@ -1,0 +1,3 @@
+# textdomain: allores_zirconolite_3t
+
+Zirconolite_3T=

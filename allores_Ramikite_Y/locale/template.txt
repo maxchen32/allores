@@ -1,0 +1,3 @@
+# textdomain: allores_ramikite_y
+
+Ramikite_Y=

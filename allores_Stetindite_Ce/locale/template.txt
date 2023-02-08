@@ -1,0 +1,3 @@
+# textdomain: allores_stetindite_ce
+
+Stetindite_Ce=

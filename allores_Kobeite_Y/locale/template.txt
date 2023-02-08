@@ -1,0 +1,3 @@
+# textdomain: allores_kobeite_y
+
+Kobeite_Y=

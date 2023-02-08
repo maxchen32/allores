@@ -1,0 +1,3 @@
+# textdomain: allores_alum_na
+
+Alum_Na=

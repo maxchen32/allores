@@ -1,0 +1,3 @@
+# textdomain: allores_kimuraite_y
+
+Kimuraite_Y=

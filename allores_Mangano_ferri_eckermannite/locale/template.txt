@@ -1,0 +1,3 @@
+# textdomain: allores_mangano_ferri_eckermannite
+
+Mangano_ferri_eckermannite=

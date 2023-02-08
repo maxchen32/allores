@@ -1,0 +1,3 @@
+# textdomain: allores_argentopolybasite_t2ac
+
+Argentopolybasite_T2ac=

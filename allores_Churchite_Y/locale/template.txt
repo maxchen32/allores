@@ -1,0 +1,3 @@
+# textdomain: allores_churchite_y
+
+Churchite_Y=

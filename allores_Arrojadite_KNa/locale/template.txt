@@ -1,0 +1,3 @@
+# textdomain: allores_arrojadite_kna
+
+Arrojadite_KNa=

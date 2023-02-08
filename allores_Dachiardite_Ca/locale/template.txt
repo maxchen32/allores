@@ -1,0 +1,3 @@
+# textdomain: allores_dachiardite_ca
+
+Dachiardite_Ca=

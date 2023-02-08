@@ -1,0 +1,3 @@
+# textdomain: allores_ardennite_as
+
+Ardennite_As=

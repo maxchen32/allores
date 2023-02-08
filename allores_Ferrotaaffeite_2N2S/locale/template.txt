@@ -1,0 +1,3 @@
+# textdomain: allores_ferrotaaffeite_2n2s
+
+Ferrotaaffeite_2N2S=

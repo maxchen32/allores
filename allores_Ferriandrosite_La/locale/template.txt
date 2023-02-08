@@ -1,0 +1,3 @@
+# textdomain: allores_ferriandrosite_la
+
+Ferriandrosite_La=

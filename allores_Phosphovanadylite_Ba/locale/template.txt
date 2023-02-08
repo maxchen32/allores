@@ -1,0 +1,3 @@
+# textdomain: allores_phosphovanadylite_ba
+
+Phosphovanadylite_Ba=

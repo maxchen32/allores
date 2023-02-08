@@ -1,0 +1,3 @@
+# textdomain: allores_vanadio_pargasite
+
+Vanadio_pargasite=

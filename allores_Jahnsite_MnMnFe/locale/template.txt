@@ -1,0 +1,3 @@
+# textdomain: allores_jahnsite_mnmnfe
+
+Jahnsite_MnMnFe=

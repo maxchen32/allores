@@ -1,0 +1,3 @@
+# textdomain: allores_ivanyukite_cu
+
+Ivanyukite_Cu=

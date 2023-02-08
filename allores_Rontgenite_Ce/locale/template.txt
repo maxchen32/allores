@@ -1,0 +1,3 @@
+# textdomain: allores_rontgenite_ce
+
+Rontgenite_Ce=

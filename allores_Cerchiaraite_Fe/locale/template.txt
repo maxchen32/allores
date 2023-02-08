@@ -1,0 +1,3 @@
+# textdomain: allores_cerchiaraite_fe
+
+Cerchiaraite_Fe=

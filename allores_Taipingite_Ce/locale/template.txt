@@ -1,0 +1,3 @@
+# textdomain: allores_taipingite_ce
+
+Taipingite_Ce=

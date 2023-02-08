@@ -1,0 +1,3 @@
+# textdomain: allores_keiviite_y
+
+Keiviite_Y=

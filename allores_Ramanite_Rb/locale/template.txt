@@ -1,0 +1,3 @@
+# textdomain: allores_ramanite_rb
+
+Ramanite_Rb=

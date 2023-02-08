@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_fluoro_pargasite
+
+Potassic_fluoro_pargasite=

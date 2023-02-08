@@ -1,0 +1,3 @@
+# textdomain: allores_semenovite_ce
+
+Semenovite_Ce=

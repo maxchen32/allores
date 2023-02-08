@@ -1,0 +1,3 @@
+# textdomain: allores_caysichite_y
+
+Caysichite_Y=

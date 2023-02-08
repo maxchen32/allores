@@ -1,0 +1,3 @@
+# textdomain: allores_kozoite_nd
+
+Kozoite_Nd=

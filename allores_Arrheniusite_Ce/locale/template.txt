@@ -1,0 +1,3 @@
+# textdomain: allores_arrheniusite_ce
+
+Arrheniusite_Ce=

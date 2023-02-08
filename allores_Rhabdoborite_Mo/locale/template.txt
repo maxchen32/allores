@@ -1,0 +1,3 @@
+# textdomain: allores_rhabdoborite_mo
+
+Rhabdoborite_Mo=

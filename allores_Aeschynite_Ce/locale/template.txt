@@ -1,0 +1,3 @@
+# textdomain: allores_aeschynite_ce
+
+Aeschynite_Ce=

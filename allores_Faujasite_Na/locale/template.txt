@@ -1,0 +1,3 @@
+# textdomain: allores_faujasite_na
+
+Faujasite_Na=

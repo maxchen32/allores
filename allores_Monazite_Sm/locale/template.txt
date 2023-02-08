@@ -1,0 +1,3 @@
+# textdomain: allores_monazite_sm
+
+Monazite_Sm=

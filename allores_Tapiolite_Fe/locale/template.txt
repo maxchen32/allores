@@ -1,0 +1,3 @@
+# textdomain: allores_tapiolite_fe
+
+Tapiolite_Fe=

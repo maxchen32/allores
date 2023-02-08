@@ -1,0 +1,3 @@
+# textdomain: allores_congolite
+
+Congolite=

@@ -1,0 +1,3 @@
+# textdomain: allores_paulingite_ca
+
+Paulingite_Ca=

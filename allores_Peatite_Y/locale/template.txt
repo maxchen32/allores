@@ -1,0 +1,3 @@
+# textdomain: allores_peatite_y
+
+Peatite_Y=

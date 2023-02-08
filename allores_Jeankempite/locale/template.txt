@@ -1,0 +1,3 @@
+# textdomain: allores_jeankempite
+
+Jeankempite=

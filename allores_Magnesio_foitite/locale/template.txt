@@ -1,0 +1,3 @@
+# textdomain: allores_magnesio_foitite
+
+Magnesio_foitite=

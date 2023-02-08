@@ -1,0 +1,3 @@
+# textdomain: allores_pseudojohannite
+
+Pseudojohannite=

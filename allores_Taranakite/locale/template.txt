@@ -1,0 +1,3 @@
+# textdomain: allores_taranakite
+
+Taranakite=

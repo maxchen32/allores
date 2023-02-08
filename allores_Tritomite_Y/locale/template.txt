@@ -1,0 +1,3 @@
+# textdomain: allores_tritomite_y
+
+Tritomite_Y=

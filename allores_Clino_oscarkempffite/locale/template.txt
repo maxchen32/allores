@@ -1,0 +1,3 @@
+# textdomain: allores_clino_oscarkempffite
+
+Clino_oscarkempffite=

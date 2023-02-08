@@ -1,0 +1,3 @@
+# textdomain: allores_ferronordite_la
+
+Ferronordite_La=

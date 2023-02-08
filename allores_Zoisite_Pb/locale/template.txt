@@ -1,0 +1,3 @@
+# textdomain: allores_zoisite_pb
+
+Zoisite_Pb=

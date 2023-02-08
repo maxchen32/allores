@@ -1,0 +1,3 @@
+# textdomain: allores_chromium_dravite
+
+Chromium_dravite=

@@ -1,0 +1,3 @@
+# textdomain: allores_mendeleevite_ce
+
+Mendeleevite_Ce=

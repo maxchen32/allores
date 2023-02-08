@@ -1,0 +1,3 @@
+# textdomain: allores_khibinskite
+
+Khibinskite=

@@ -1,0 +1,3 @@
+# textdomain: allores_chabazite_sr
+
+Chabazite_Sr=

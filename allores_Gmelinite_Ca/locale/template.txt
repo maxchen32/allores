@@ -1,0 +1,3 @@
+# textdomain: allores_gmelinite_ca
+
+Gmelinite_Ca=

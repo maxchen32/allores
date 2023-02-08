@@ -1,0 +1,3 @@
+# textdomain: allores_stilbite_ca
+
+Stilbite_Ca=

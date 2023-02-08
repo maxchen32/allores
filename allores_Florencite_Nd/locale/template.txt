@@ -1,0 +1,3 @@
+# textdomain: allores_florencite_nd
+
+Florencite_Nd=

@@ -1,0 +1,3 @@
+# textdomain: allores_anzaite_ce
+
+Anzaite_Ce=

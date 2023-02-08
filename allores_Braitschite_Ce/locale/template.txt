@@ -1,0 +1,3 @@
+# textdomain: allores_braitschite_ce
+
+Braitschite_Ce=

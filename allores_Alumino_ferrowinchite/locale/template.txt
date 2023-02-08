@@ -1,0 +1,3 @@
+# textdomain: allores_alumino_ferrowinchite
+
+Alumino_ferrowinchite=

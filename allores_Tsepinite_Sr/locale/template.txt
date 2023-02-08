@@ -1,0 +1,3 @@
+# textdomain: allores_tsepinite_sr
+
+Tsepinite_Sr=

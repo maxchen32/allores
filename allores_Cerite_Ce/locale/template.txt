@@ -1,0 +1,3 @@
+# textdomain: allores_cerite_ce
+
+Cerite_Ce=

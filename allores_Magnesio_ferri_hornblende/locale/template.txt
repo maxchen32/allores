@@ -1,0 +1,3 @@
+# textdomain: allores_magnesio_ferri_hornblende
+
+Magnesio_ferri_hornblende=

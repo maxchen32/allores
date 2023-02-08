@@ -1,0 +1,3 @@
+# textdomain: allores_carbonate_hydroxylapatite
+
+Carbonate_hydroxylapatite=

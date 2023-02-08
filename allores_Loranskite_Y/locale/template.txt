@@ -1,0 +1,3 @@
+# textdomain: allores_loranskite_y
+
+Loranskite_Y=

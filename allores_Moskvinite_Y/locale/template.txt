@@ -1,0 +1,3 @@
+# textdomain: allores_moskvinite_y
+
+Moskvinite_Y=

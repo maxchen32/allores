@@ -1,0 +1,3 @@
+# textdomain: allores_yttrocolumbite_y
+
+Yttrocolumbite_Y=

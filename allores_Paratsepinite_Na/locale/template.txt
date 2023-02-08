@@ -1,0 +1,3 @@
+# textdomain: allores_paratsepinite_na
+
+Paratsepinite_Na=

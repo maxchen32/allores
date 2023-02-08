@@ -1,0 +1,3 @@
+# textdomain: allores_clino_ferri_holmquistite
+
+Clino_ferri_holmquistite=

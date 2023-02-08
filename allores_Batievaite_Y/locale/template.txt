@@ -1,0 +1,3 @@
+# textdomain: allores_batievaite_y
+
+Batievaite_Y=

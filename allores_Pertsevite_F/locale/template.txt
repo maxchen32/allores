@@ -1,0 +1,3 @@
+# textdomain: allores_pertsevite_f
+
+Pertsevite_F=

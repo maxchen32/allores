@@ -1,0 +1,3 @@
+# textdomain: allores_armellinoite_ce
+
+Armellinoite_Ce=

@@ -1,0 +1,3 @@
+# textdomain: allores_labuntsovite_mn
+
+Labuntsovite_Mn=

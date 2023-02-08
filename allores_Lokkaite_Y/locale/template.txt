@@ -1,0 +1,3 @@
+# textdomain: allores_lokkaite_y
+
+Lokkaite_Y=

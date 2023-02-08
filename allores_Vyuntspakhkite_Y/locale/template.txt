@@ -1,0 +1,3 @@
+# textdomain: allores_vyuntspakhkite_y
+
+Vyuntspakhkite_Y=

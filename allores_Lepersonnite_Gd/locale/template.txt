@@ -1,0 +1,3 @@
+# textdomain: allores_lepersonnite_gd
+
+Lepersonnite_Gd=

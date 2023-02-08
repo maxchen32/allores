@@ -1,0 +1,3 @@
+# textdomain: allores_heulandite_sr
+
+Heulandite_Sr=

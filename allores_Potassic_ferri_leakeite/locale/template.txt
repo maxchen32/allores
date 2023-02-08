@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_ferri_leakeite
+
+Potassic_ferri_leakeite=

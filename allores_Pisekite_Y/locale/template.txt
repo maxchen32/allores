@@ -1,0 +1,3 @@
+# textdomain: allores_pisekite_y
+
+Pisekite_Y=

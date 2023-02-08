@@ -1,0 +1,3 @@
+# textdomain: allores_aegirine_augite
+
+Aegirine_augite=

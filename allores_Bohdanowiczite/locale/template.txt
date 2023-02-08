@@ -1,0 +1,3 @@
+# textdomain: allores_bohdanowiczite
+
+Bohdanowiczite=

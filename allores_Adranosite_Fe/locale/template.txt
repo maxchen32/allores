@@ -1,0 +1,3 @@
+# textdomain: allores_adranosite_fe
+
+Adranosite_Fe=

@@ -1,0 +1,3 @@
+# textdomain: allores_mizraite_ce
+
+Mizraite_Ce=

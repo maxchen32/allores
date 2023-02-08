@@ -1,0 +1,3 @@
+# textdomain: allores_clino_suenoite
+
+Clino_suenoite=

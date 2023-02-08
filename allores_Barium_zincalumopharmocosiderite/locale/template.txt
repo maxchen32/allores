@@ -1,0 +1,3 @@
+# textdomain: allores_barium_zincalumopharmocosiderite
+
+Barium_zincalumopharmocosiderite=

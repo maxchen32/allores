@@ -1,0 +1,3 @@
+# textdomain: allores_seidite_ce
+
+Seidite_Ce=

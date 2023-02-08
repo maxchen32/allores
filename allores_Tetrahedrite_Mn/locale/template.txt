@@ -1,0 +1,3 @@
+# textdomain: allores_tetrahedrite_mn
+
+Tetrahedrite_Mn=

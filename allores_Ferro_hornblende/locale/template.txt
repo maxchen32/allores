@@ -1,0 +1,3 @@
+# textdomain: allores_ferro_hornblende
+
+Ferro_hornblende=

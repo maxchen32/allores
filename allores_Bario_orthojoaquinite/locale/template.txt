@@ -1,0 +1,3 @@
+# textdomain: allores_bario_orthojoaquinite
+
+Bario_orthojoaquinite=

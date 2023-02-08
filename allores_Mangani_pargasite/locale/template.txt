@@ -1,0 +1,3 @@
+# textdomain: allores_mangani_pargasite
+
+Mangani_pargasite=

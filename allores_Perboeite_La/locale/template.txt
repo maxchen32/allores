@@ -1,0 +1,3 @@
+# textdomain: allores_perboeite_la
+
+Perboeite_La=

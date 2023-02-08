@@ -1,0 +1,3 @@
+# textdomain: allores_calcioancylite_la
+
+Calcioancylite_La=

@@ -1,0 +1,3 @@
+# textdomain: allores_meurigite_na
+
+Meurigite_Na=

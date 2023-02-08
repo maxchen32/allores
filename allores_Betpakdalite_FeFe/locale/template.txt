@@ -1,0 +1,3 @@
+# textdomain: allores_betpakdalite_fefe
+
+Betpakdalite_FeFe=

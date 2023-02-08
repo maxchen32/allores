@@ -1,0 +1,3 @@
+# textdomain: allores_coparsite
+
+Coparsite=

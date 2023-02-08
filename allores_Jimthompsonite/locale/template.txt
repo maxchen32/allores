@@ -1,0 +1,3 @@
+# textdomain: allores_jimthompsonite
+
+Jimthompsonite=

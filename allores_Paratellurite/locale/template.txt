@@ -1,0 +1,3 @@
+# textdomain: allores_paratellurite
+
+Paratellurite=

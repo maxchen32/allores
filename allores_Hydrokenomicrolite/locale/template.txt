@@ -1,0 +1,3 @@
+# textdomain: allores_hydrokenomicrolite
+
+Hydrokenomicrolite=

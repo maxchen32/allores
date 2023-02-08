@@ -1,0 +1,3 @@
+# textdomain: allores_hydroxylapatite_m
+
+Hydroxylapatite_M=

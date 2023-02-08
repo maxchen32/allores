@@ -1,0 +1,3 @@
+# textdomain: allores_columbite_fe
+
+Columbite_Fe=

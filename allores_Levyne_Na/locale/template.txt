@@ -1,0 +1,3 @@
+# textdomain: allores_levyne_na
+
+Levyne_Na=

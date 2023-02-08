@@ -1,0 +1,3 @@
+# textdomain: allores_ceriopyrochlore_ce
+
+Ceriopyrochlore_Ce=

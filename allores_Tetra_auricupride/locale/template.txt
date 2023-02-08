@@ -1,0 +1,3 @@
+# textdomain: allores_tetra_auricupride
+
+Tetra_auricupride=

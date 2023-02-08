@@ -1,0 +1,3 @@
+# textdomain: allores_parisite_nd
+
+Parisite_Nd=

@@ -1,0 +1,3 @@
+# textdomain: allores_mottanaite_ce
+
+Mottanaite_Ce=

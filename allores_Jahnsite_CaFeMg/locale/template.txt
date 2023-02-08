@@ -1,0 +1,3 @@
+# textdomain: allores_jahnsite_cafemg
+
+Jahnsite_CaFeMg=

@@ -1,0 +1,3 @@
+# textdomain: allores_ferriakasakaite_ce
+
+Ferriakasakaite_Ce=

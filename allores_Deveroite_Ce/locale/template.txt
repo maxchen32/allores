@@ -1,0 +1,3 @@
+# textdomain: allores_deveroite_ce
+
+Deveroite_Ce=

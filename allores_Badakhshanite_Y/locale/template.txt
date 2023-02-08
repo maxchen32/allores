@@ -1,0 +1,3 @@
+# textdomain: allores_badakhshanite_y
+
+Badakhshanite_Y=

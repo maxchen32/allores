@@ -1,0 +1,3 @@
+# textdomain: allores_piergorite_ce
+
+Piergorite_Ce=

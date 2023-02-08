@@ -1,0 +1,3 @@
+# textdomain: allores_nordite_ce
+
+Nordite_Ce=

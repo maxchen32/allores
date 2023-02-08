@@ -1,0 +1,3 @@
+# textdomain: allores_nacareniobsite_ce
+
+Nacareniobsite_Ce=

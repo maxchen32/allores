@@ -1,0 +1,3 @@
+# textdomain: allores_lemmleinite_k
+
+Lemmleinite_K=

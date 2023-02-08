@@ -1,0 +1,3 @@
+# textdomain: allores_illoqite_ce
+
+Illoqite_Ce=

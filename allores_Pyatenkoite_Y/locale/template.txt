@@ -1,0 +1,3 @@
+# textdomain: allores_pyatenkoite_y
+
+Pyatenkoite_Y=

@@ -1,0 +1,3 @@
+# textdomain: allores_lecoqite_y
+
+Lecoqite_Y=

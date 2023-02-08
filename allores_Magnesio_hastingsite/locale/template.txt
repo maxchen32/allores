@@ -1,0 +1,3 @@
+# textdomain: allores_magnesio_hastingsite
+
+Magnesio_hastingsite=

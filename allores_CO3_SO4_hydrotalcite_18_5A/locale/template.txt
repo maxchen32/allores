@@ -1,0 +1,3 @@
+# textdomain: allores_co3_so4_hydrotalcite_18_5a
+
+CO3_SO4_hydrotalcite_18_5A=

@@ -1,0 +1,3 @@
+# textdomain: allores_magnesiobeltrandoite_2n3s
+
+Magnesiobeltrandoite_2N3S=

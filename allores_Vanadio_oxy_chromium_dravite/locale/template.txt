@@ -1,0 +1,3 @@
+# textdomain: allores_vanadio_oxy_chromium_dravite
+
+Vanadio_oxy_chromium_dravite=

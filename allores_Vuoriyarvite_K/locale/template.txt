@@ -1,0 +1,3 @@
+# textdomain: allores_vuoriyarvite_k
+
+Vuoriyarvite_K=

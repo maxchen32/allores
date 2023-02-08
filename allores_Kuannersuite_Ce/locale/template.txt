@@ -1,0 +1,3 @@
+# textdomain: allores_kuannersuite_ce
+
+Kuannersuite_Ce=

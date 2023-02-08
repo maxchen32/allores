@@ -1,0 +1,3 @@
+# textdomain: allores_scandio_winchite
+
+Scandio_winchite=

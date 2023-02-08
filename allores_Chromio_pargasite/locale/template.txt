@@ -1,0 +1,3 @@
+# textdomain: allores_chromio_pargasite
+
+Chromio_pargasite=

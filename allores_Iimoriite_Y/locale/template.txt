@@ -1,0 +1,3 @@
+# textdomain: allores_iimoriite_y
+
+Iimoriite_Y=

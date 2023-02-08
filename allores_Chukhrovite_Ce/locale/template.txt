@@ -1,0 +1,3 @@
+# textdomain: allores_chukhrovite_ce
+
+Chukhrovite_Ce=

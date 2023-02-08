@@ -1,0 +1,3 @@
+# textdomain: allores_hizenite_y
+
+Hizenite_Y=

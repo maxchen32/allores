@@ -1,0 +1,3 @@
+# textdomain: allores_fluorapophyllite_nh4
+
+Fluorapophyllite_NH4=

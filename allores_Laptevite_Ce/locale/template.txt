@@ -1,0 +1,3 @@
+# textdomain: allores_laptevite_ce
+
+Laptevite_Ce=

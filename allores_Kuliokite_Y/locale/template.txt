@@ -1,0 +1,3 @@
+# textdomain: allores_kuliokite_y
+
+Kuliokite_Y=

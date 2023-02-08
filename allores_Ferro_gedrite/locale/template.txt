@@ -1,0 +1,3 @@
+# textdomain: allores_ferro_gedrite
+
+Ferro_gedrite=

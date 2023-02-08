@@ -1,0 +1,3 @@
+# textdomain: allores_bridgesite_ce
+
+Bridgesite_Ce=

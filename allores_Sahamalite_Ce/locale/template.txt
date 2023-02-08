@@ -1,0 +1,3 @@
+# textdomain: allores_sahamalite_ce
+
+Sahamalite_Ce=

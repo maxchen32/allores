@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_fluoro_richterite
+
+Potassic_fluoro_richterite=

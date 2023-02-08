@@ -1,0 +1,3 @@
+# textdomain: allores_hydroxymcglassonite_k
+
+Hydroxymcglassonite_K=

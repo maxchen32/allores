@@ -1,0 +1,3 @@
+# textdomain: allores_cuatrocapaite_k
+
+Cuatrocapaite_K=

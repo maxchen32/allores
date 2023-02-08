@@ -1,0 +1,3 @@
+# textdomain: allores_ingersonite
+
+Ingersonite=

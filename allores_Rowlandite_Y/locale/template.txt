@@ -1,0 +1,3 @@
+# textdomain: allores_rowlandite_y
+
+Rowlandite_Y=

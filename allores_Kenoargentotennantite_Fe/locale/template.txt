@@ -1,0 +1,3 @@
+# textdomain: allores_kenoargentotennantite_fe
+
+Kenoargentotennantite_Fe=

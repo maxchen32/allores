@@ -1,0 +1,3 @@
+# textdomain: allores_dessauite_y
+
+Dessauite_Y=

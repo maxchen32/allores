@@ -1,0 +1,3 @@
+# textdomain: allores_pyrosmalite_fe
+
+Pyrosmalite_Fe=

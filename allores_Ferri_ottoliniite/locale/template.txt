@@ -1,0 +1,3 @@
+# textdomain: allores_ferri_ottoliniite
+
+Ferri_ottoliniite=

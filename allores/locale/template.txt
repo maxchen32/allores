@@ -1,0 +1,5 @@
+# textdomain: allores
+
+(All the minerals of the Earth, thanks to RRUFF for the list of minerals)=
+allores2=
+allores3=

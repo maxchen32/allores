@@ -1,0 +1,3 @@
+# textdomain: allores_ferricerite_la
+
+Ferricerite_La=

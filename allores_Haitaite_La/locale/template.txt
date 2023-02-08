@@ -1,0 +1,3 @@
+# textdomain: allores_haitaite_la
+
+Haitaite_La=

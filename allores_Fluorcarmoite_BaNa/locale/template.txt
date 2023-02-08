@@ -1,0 +1,3 @@
+# textdomain: allores_fluorcarmoite_bana
+
+Fluorcarmoite_BaNa=

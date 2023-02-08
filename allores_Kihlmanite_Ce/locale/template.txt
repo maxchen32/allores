@@ -1,0 +1,3 @@
+# textdomain: allores_kihlmanite_ce
+
+Kihlmanite_Ce=

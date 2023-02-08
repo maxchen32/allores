@@ -1,0 +1,3 @@
+# textdomain: allores_cochromite
+
+Cochromite=

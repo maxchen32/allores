@@ -1,0 +1,3 @@
+# textdomain: allores_ferri_fluoro_katophorite
+
+Ferri_fluoro_katophorite=

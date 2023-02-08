@@ -1,0 +1,3 @@
+# textdomain: allores_graulichite_la
+
+Graulichite_La=

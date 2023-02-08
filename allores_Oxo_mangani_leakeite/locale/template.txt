@@ -1,0 +1,3 @@
+# textdomain: allores_oxo_mangani_leakeite
+
+Oxo_mangani_leakeite=

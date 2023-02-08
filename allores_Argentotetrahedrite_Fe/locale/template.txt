@@ -1,0 +1,3 @@
+# textdomain: allores_argentotetrahedrite_fe
+
+Argentotetrahedrite_Fe=

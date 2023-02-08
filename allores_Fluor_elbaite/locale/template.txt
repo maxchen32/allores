@@ -1,0 +1,3 @@
+# textdomain: allores_fluor_elbaite
+
+Fluor_elbaite=

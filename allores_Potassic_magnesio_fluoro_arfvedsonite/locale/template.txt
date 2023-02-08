@@ -1,0 +1,3 @@
+# textdomain: allores_potassic_magnesio_fluoro_arfvedsonite
+
+Potassic_magnesio_fluoro_arfvedsonite=

@@ -1,0 +1,3 @@
+# textdomain: allores_ixiolite_mn2
+
+Ixiolite_Mn2=

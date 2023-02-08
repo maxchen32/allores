@@ -1,0 +1,3 @@
+# textdomain: allores_ramosite
+
+Ramosite=

@@ -1,0 +1,3 @@
+# textdomain: allores_sodic_ferri_clinoferroholmquistite
+
+Sodic_ferri_clinoferroholmquistite=

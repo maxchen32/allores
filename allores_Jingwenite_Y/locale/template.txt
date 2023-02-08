@@ -1,0 +1,3 @@
+# textdomain: allores_jingwenite_y
+
+Jingwenite_Y=

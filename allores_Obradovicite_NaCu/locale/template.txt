@@ -1,0 +1,3 @@
+# textdomain: allores_obradovicite_nacu
+
+Obradovicite_NaCu=

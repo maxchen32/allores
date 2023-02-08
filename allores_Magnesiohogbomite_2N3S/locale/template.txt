@@ -1,0 +1,3 @@
+# textdomain: allores_magnesiohogbomite_2n3s
+
+Magnesiohogbomite_2N3S=
